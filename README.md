@@ -15,3 +15,7 @@
 * PyCharm
 * SourceTree
 * Fira Code https://github.com/tonsky/FiraCode
+* CopyClip
+* Dashlane
+* Chrome
+* Any.Do
