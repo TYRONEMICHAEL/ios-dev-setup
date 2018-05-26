@@ -16,3 +16,4 @@
 * SourceTree
 * Fira Code https://github.com/tonsky/FiraCode
 * CopyClip
+* Spotify
