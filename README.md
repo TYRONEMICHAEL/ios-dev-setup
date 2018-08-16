@@ -18,3 +18,4 @@
 * Fira Code https://github.com/tonsky/FiraCode
 * CopyClip
 * Spotify
+* xcode theme Fira & https://github.com/bojan/xcode-one-dark
