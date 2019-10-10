@@ -1,0 +1,17 @@
+# Set Spaceship ZSH as a prompt
+autoload -U promptinit; promptinit
+prompt spaceship
+
+source $(dirname $(gem which colorls))/tab_complete.sh
+source /usr/local/share/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+. /usr/local/etc/profile.d/z.sh
+zstyle ':completion:*' menu select
+autoload -U compinit
+compinit
+
+
+alias l='colorls --group-directories-first --almost-all'
+alias ll='colorls --group-directories-first --almost-all --long'
+alias update="source ~/.zshrc"
+alias gst='git status'
