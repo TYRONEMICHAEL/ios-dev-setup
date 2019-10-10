@@ -19,3 +19,6 @@
 * CopyClip
 * Spotify
 * xcode theme Fira & https://github.com/bojan/xcode-one-dark
+* https://www.robertcooper.me/elegant-development-experience-with-zsh-and-hyper-terminal
+* Nerd fonts download
+* Use native ZSH instead of oh myzsh
